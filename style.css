@@ -1,0 +1,59 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+    color: purple;
+}
+.color{
+    color: orange;
+}
+h3{
+    background-colo:rgb(157, 255, 0) ;
+    font-size: 25px;
+
+}
+.fr-color{
+    color: rgb(89, 0, 255); 
+}
+.one{
+    color: rgb(173, 13, 13);
+    font-size: 25px;
+}
+.fateh{
+    display: flex;
+    margin-bottom: 150px;
+}
+.hello{
+    width: 50%;
+    padding: 2%;
+}
+.hello img{
+    width: 80%;
+}
+.batton{
+    text-decoration: none;
+    background:violet;
+    border-size: 50px;
+    border-radius: 2px;
+}
+
+.experience-item{
+    border-left: rgb(255, 47, 47);
+    width: 50%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding: 10px;
+    box-shadow: 10px 10px 40px green;
+    border-radius: 5px;
+    border-left: rgb(255, 47, 47);
+}
+h2{
+    font-size: 30%;
+}
+.last-h{
+    font-size: 150%;
+    border: s0lid;}
+    footer p {
+        text-align: center;
+    }
